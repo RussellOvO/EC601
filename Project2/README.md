@@ -26,7 +26,7 @@ However, this is still a huge project since you have to label countless address.
 
 After exercising, I want to get some food and then I have to attend the class. I’d like to eat fried chicken. But the nearest KFC is still far away. Obviously, KFC is not a good choice.
 
-![](https://github.com/RussellOvO/EC601/edit/main/Project2/original.png)
+![img](https://github.com/RussellOvO/EC601/edit/main/Project2/original.png)
 
 With the route design helper, it will be different. After setting the destination, gym, fried chicken restaurant, and the classroom, the result can be McDonald’s since this is the cheapest route.
 
