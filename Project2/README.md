@@ -32,7 +32,9 @@ With the route design helper, it will be different. After setting the destinatio
 
 ![img](https://github.com/RussellOvO/EC601/edit/main/Project2/cheapest.png)
 
- It also produces one route which contains BBQ chicken. That’s because BBQ Chicken is the highest-scoring restaurant in this area. ![img](https://github.com/RussellOvO/EC601/edit/main/Project2/best.png)
+ It also produces one route which contains BBQ chicken. That’s because BBQ Chicken is the highest-scoring restaurant in this area. 
+ 
+ ![img](https://github.com/RussellOvO/EC601/edit/main/Project2/best.png)
 
 Besides, the university restaurant route which is neither the most delicious nor the cheapest is also one result since it is the most time-saving one.
 
