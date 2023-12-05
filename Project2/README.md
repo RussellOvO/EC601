@@ -26,17 +26,17 @@ However, this is still a huge project since you have to label countless address.
 
 After exercising, I want to get some food and then I have to attend the class. I’d like to eat fried chicken. But the nearest KFC is still far away. Obviously, KFC is not a good choice.
 
-![img](https://github.com/RussellOvO/EC601/edit/main/Project2/original.png)
+![image](https://github.com/RussellOvO/EC601/edit/main/Project2/original.png)
 
 With the route design helper, it will be different. After setting the destination, gym, fried chicken restaurant, and the classroom, the result can be McDonald’s since this is the cheapest route.
 
-![](https://github.com/RussellOvO/EC601/edit/main/Project2/cheapest.png)
+![image](https://github.com/RussellOvO/EC601/edit/main/Project2/cheapest.png)
 
 It also produces one route which contains BBQ chicken. That’s because BBQ Chicken is the highest-scoring restaurant in this area. 
  
-![](https://github.com/RussellOvO/EC601/edit/main/Project2/best.png)
+![image](https://github.com/RussellOvO/EC601/edit/main/Project2/best.png)
 
 Besides, the university restaurant route which is neither the most delicious nor the cheapest is also one result since it is the most time-saving one.
 
-![](https://github.com/RussellOvO/EC601/edit/main/Project2/shortest.png)
+![image](https://github.com/RussellOvO/EC601/edit/main/Project2/shortest.png)
 
